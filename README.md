@@ -1,2 +1,4 @@
 # Sentiment-Analysis-
-Sentiment Analysis with NLP using TF-IDF vectorization and logistic regression
+Sentiment Analysis with NLP using TF-IDF vectorization and logistic regression.
+
+This project focuses on Sentiment Analysis using Natural Language Processing (NLP) techniques to classify text reviews as either positive or negative. The primary objective is to develop a machine learning pipeline that can effectively process raw textual data and extract meaningful patterns to predict sentiment. The dataset was preprocessed through steps such as text cleaning, tokenization, and normalization. Feature extraction was performed using TF-IDF (Term Frequency-Inverse Document Frequency) vectorization to convert textual data into numerical form. A Logistic Regression classifier was then trained on the transformed data. The model's performance was evaluated using standard metrics such as accuracy, precision, recall, and F1-score. This project highlights the practical application of NLP and classical machine learning techniques for text classification tasks.
